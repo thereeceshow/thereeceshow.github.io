@@ -11,7 +11,7 @@ There is a lot to learn.
 - [ ] GitHub
 - [ ] Markdown
 - [ ] CLI/Terminal/Bash/Zsh
-- [x] Bash does care that Get sounds the same as Git
+- [x] Bash does **NOT** care that Get sounds the same as Git
 
 ### Here are something I have learned so far though.
 
