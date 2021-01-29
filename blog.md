@@ -20,3 +20,4 @@ There is a lot to learn.
 ![Clifty Wilderness of Confusion](https://www.outragegis.com/pixel/_data/i/galleries/120127_CliftyWilderness/Clifty%20Wilderness-cu_e520x360.jpg)
 ![Falling off Cliff](https://thumbs.gfycat.com/BothDarkIguana-small.gif)
 1. Git makes more sense when I actually do it.
+1. Its probably best is we don't let the *designers* see these pages yet...
