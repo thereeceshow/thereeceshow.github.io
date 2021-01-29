@@ -12,6 +12,7 @@ There is a lot to learn.
 - [ ] Markdown
 - [ ] CLI/Terminal/Bash/Zsh
 - [x] Bash does **NOT** care that Get sounds the same as Git
+- [x] It also case sensitive... *$ git add -a* and *$ git add -A* are not the same.  
 
 ### Here are something I have learned so far though.
 
@@ -20,4 +21,31 @@ There is a lot to learn.
 ![Clifty Wilderness of Confusion](https://www.outragegis.com/pixel/_data/i/galleries/120127_CliftyWilderness/Clifty%20Wilderness-cu_e520x360.jpg)
 ![Falling off Cliff](https://thumbs.gfycat.com/BothDarkIguana-small.gif)
 1. Git makes more sense when I actually do it.
-1. Its probably best is we don't let the *designers* see these pages yet...
+1. Its probably best is we don't let the *designers* see these pages yet.
+
+### How to do a collapsable list with MD:
+
+<details> 
+<summary> Use this code </summary>
+
+# `# "Whatever heading you want here"`
+
+`<details>`
+
+`<summary> Click this to Expand the List </summary>`
+
+*`Put your list items here`*
+
+`1. One`
+
+`1. Two`
+
+`1. Thirteenteen`
+
+`1. Shfifty-Five`
+
+`</details>`
+
+These tags look more like traditional HTML tags than what we have been using in MD so far.
+
+</details>
