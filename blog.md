@@ -49,3 +49,12 @@ There is a lot to learn.
 These tags look more like traditional HTML tags than what we have been using in MD so far.
 
 </details>
+
+### *Here is something I learned,  and I am testing:*
+
+* On my old device (Macbook Pro) my directory containing everything in here was backed up to iCloud.
+* When I added my Desktop and Documents to be connected to my iCloud on the new device, all the exisiting folders and files showed up.
+* When I ran newcomputer % ls -a on the new device, the .git file was there.
+* Now I am making these changes we see right now to see if I can push it up the GitHub.  I will update:
+* Note:  Any changes I make to the files on either device will change on the other device too, iCloud will sync the most current version of each one.  I may have to experiment and see what happens if I open both at the same time and make different changes.  I imagine it'll be whichever is saved last.
+* There is another intresteing thing I'm curious about right now... but as a security issue... I'm not sure I should publish it on the interwebs.  I'll talk about it on our standup.
