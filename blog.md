@@ -2,10 +2,19 @@
 ![Reece's Face](https://avatars.githubusercontent.com/u/58195393?s=400&u=8558a8fe90be60184330fbdcb54a0d1496e83cee&v=4)
 ### Chronicling an Awesome Coding Journey
 
+**Friday, Feb 5th, 2021**
+
+We have just finished week 2 of our pre-work.  Everyone on <abbr title="Smith, Katy, Harris, Steven, Scott, Eric, and myself">Team Hopper</abbr> had good presentations today for our strangely similar Splash page's.
+
+We had a good talk about uses of Dev Tools and the Document Object Model, or DOM.  We got into talking about the ethics of viewing, borrowing, and using other's code.
+
+Justin and Ian spoke about learning to write code by writing code is much better than not learning to write code by copying code.
+
+That reminded me of a story I read in [Flash Boys by Michael Lewis] (https://www.amazon.com/Flash-Boys-Wall-Street-Revolt/dp/0393351599)
 
 **Day 1**
 
-There is a lot to learn.
+There is a lot to learn. 
 
 - [ ] Git
 - [ ] GitHub
