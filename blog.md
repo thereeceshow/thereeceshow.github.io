@@ -15,15 +15,15 @@ We had a good talk about uses of Dev Tools and the Document Object Model, or DOM
 
 Justin and Ian spoke about learning to write code by writing code is much better than not learning to write code by copying code.
 
-That reminded me of a story I read in [Flash Boys by Michael Lewis] (https://www.amazon.com/Flash-Boys-Wall-Street-Revolt/dp/0393351599) where it talks about why Russia was producing some of the best programmers ever.  In the West, students had tons of access to computers, but didn't code as well as the Russians who had limited *Machine Time*.
+That reminded me of a story I read in [Flash Boys by Michael Lewis](https://www.amazon.com/Flash-Boys-Wall-Street-Revolt/dp/0393351599) where it talks about why Russia was producing some of the best programmers ever.  In the West, students had tons of access to computers, but didn't code as well as the Russians who had limited *Machine Time*.
 
 Because the Russian programers may only have an hour or so time on the actual computer a week, they wrote all their code out on paper, and debugged it in their minds.  Not talking about pesudocode either.  This was precise, perfect syntax, and everything.  They also didn't have <u>Stack Exchange</u> to look anything up either...
 
-##### Scarce resources are valuable.
+### Scarce resources are valuable.
 
 Thinking about that story makes me think I need to reconsider just how valuable pseduocode can be, especially as we add more and more layers and complexity to our projects.
 
-If you aren't familiar with <u>Flash Boys</u>, check it out.  Its the story of how some coders changed Wall Street \(and not in a good way \), long before Reddit, and Robinhood.
+If you aren't familiar with <u>Flash Boys</u>, check it out.  Its the story of how some coders changed Wall Street \(and not in a good way\), long before Reddit, and Robinhood.
 
 * * *
 
