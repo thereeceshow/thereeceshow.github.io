@@ -7,7 +7,40 @@
 
 ***
 
-**Friday, Feb 5th, 2021**
+### Week 3
+#### Tuesday, Feb 9th, 2021
+
+<br>
+
+Here is a little mid-week question.
+
+For vs While
+
+For loops for a specified number of times. While runs for as long as a condition is true.
+
+But how is that not the same thing?
+
+See below:
+
+> <code>var i = 0</code>
+
+These results are the same:
+
+> <code>while (i < 10) {
+  console.log("The number is " + i);
+  i++;
+}</code>
+
+> <code>for (let i = 0; i <10; i++) {
+>  console.log(‘’The number is ‘ + i);
+> }</code>
+
+***
+
+### Week 2
+#### Friday, Feb 5th, 2021
+
+<br>
 
 We have just finished week 2 of our pre-work.  Everyone on <abbr title="Smith, Katy, Harris, Steven, Scott, Eric, and myself">Team Hopper</abbr> had good presentations today for our strangely similar Splash page's.
 
@@ -19,7 +52,7 @@ That reminded me of a story I read in [Flash Boys by Michael Lewis](https://www.
 
 Because the Russian programers may only have an hour or so time on the actual computer a week, they wrote all their code out on paper, and debugged it in their minds.  Not talking about pesudocode either.  This was precise, perfect syntax, and everything.  They also didn't have <u>Stack Exchange</u> to look anything up either...
 
-### Scarce resources are valuable.
+***Scarce resources are valuable.***
 
 Thinking about that story makes me think I need to reconsider just how valuable pseduocode can be, especially as we add more and more layers and complexity to our projects.
 
@@ -27,7 +60,10 @@ If you aren't familiar with <u>Flash Boys</u>, check it out.  Its the story of h
 
 * * *
 
-**Day 1**
+### Day 1
+#### Monday, Jan 25th, 2021
+
+<br>
 
 There is a lot to learn. 
 
