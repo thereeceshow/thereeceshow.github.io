@@ -8,6 +8,29 @@
 ***
 
 ### Week 3
+#### Friday, Feb 11th, 2021
+
+<br>
+
+The Questions Are:
+
+1. What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing user experience?
+  * I heard these described as the essential elements in a sentence.
+    * **Noun**
+      * ***HTML*** The subject of the page, the main content.
+    * **Adjective**
+      * ***CSS*** How it looks, CSS describes the HTML.
+    * **Verb**  
+      * ***JavaScript*** Action.  JS is all about doing.
+
+Luckily we also have the dictionary, MDN.
+
+1. What are some objects that your blog incorporates?
+
+  I'm not sure in includes any Objects currently, and a Web Dev since of the word.
+
+
+
 #### Tuesday, Feb 9th, 2021
 
 <br>
