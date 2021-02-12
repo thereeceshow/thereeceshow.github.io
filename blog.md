@@ -27,6 +27,8 @@ Luckily we also have the dictionary, MDN.
 
 1. What are some objects that your blog incorporates?
 
+  I'm not sure in includes any Objects currently, and a Web Dev since of the word.
+
 
 
 #### Tuesday, Feb 9th, 2021
