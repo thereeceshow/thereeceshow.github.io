@@ -1,9 +1,57 @@
 # Reece Walter
 ![Reece's Face](https://avatars.githubusercontent.com/u/58195393?s=400&u=8558a8fe90be60184330fbdcb54a0d1496e83cee&v=4)
 
+---
+#### **Good Stoic Quotes:**
+
+> "Waste no more time arguing about what good man should be.  Be one."
+>
+> "If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment."
+>
+> "You have power over your mind - not outside events. Realize this, and you will find strength."
+>
+> "The happiness of your life depends upon the quality of your thoughts."
+>
+>                                                                 - Marcus Aurelius
+
 ***
 
 ## Chronicling an Awesome Coding Journey
+
+***
+
+### Week 5
+#### Saturday, Feb 27th, 2021
+
+> *What is the number one thing that held you back this week? Why?*
+
+  >>Jumping into Bootstrap unlocked a new world, and also a created lot of places to get hung up.  For one, there are so many easy to implement options, but that can lead to death by indecision.  Also, the understanding of what each class does is still a learning opportunity.  Some are easy to grasp and make sense, i.e. mx-1, text-center, etc.  Others will take more time to figure out (the 10 different Nav classes in a Nav bar).
+
+  >>If anything is holding me back, its understanding the mechanics of all the classes on the more complex Bootstrap molecules and organisms.  Its is an time-based impediment.  Its a bottleneck.  A Navbar has several divs with different nav classes. Finding the right div that affects what I'm targeting is not as intuitive as I would like.  I'm spending a lot of time with the Dev Tools inspector, trying to find what class is controlling things at multiple breakpoints.
+
+  >>If "The Obstacle is the Way", its helping me do a few other things besides just get more familiar with BootStrap classes..
+  
+  >> * I'm getting good practice in with Dev Tools, and finding styles in very complicated CSS sheets.
+  >> * I'm getting good at inspecting things I didn't write (BootStrap's Classes).  Where the naming convention isn't the way I would name something necessarily.
+
+  >>  [x] Understand the BootStrap Layout & Grid System.
+  >>  [x] Understand the principles of Atomic Design.
+  >>  [ ] Understand how to rework a complex Bootstrap Molecule to factor in several changes.
+  >>  [ ] Completely understanding when something is a molecule vs and organism.
+
+
+ 
+*What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures)?*
+
+  I think we have been shown a little about the existence, and structure of JavaScript Objects.  I think seeing where these have real power will be helpful.  Hopefully we can see them in action more.  Maybe some of the Katas will start to introduce them.
+
+
+ 
+*What is one thing you would like to learn more about regarding Bootstrap or Atomic Design?*
+
+  I'm a little fuzzy on exactly when a molecule becomes an organism.  I can see the difference in a lot of cases.  I like the comparison of a molecule being reusable, and an organism being a single use item... but that makes me me think some organisms are more simple than other molecules.
+
+  For example, if this still holds true... there should only be on `<h1>` on a page.  A header is certainly only a molecule... but in this case would it also be an Organism (I know its not... but this is just the most extreme example I can think of... other cases seem more ambiguous.)
 
 ***
 
