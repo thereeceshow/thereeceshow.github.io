@@ -7,6 +7,13 @@
 
 ***
 
+### Week 4
+#### Friday, Feb 18th, 2021
+
+This is the end of the prework portion of our bootcamp.  I'm excited to see everyone in person.
+
+[Checkout my watch project.](http://thereeceshow.github.io/clock/)
+
 ### Week 3
 #### Friday, Feb 11th, 2021
 
