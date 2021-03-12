@@ -1,3 +1,12 @@
+html, body {
+    height: 100vh;
+
+}
+
+* {
+    font-family: 'Open Sans', sans-serif;;
+}
+
 #linkedin {
     color: #0072B1
 }
@@ -14,3 +23,4 @@
     -webkit-text-fill-color: transparent;
     background-clip: text;
 }
+
