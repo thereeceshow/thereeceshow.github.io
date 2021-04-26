@@ -1,7 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Roboto:wght@300;400;500&display=swap');
+
 html, body {
   height: 100vh;
+  background: url(./bg2.jpg) fixed;
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+}
+
+* {
+  font-family: 'Roboto', sans-serif;
 }
 
 .Splash {
   height: 100vh;
 }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'EB Garamond', serif;
+}
+#linkedin {
+  color: #0072B1
+}
+#facebook {
+  color: #3B5998
+}
+#twitter {
+  color: #00ACEE
+}
+
+#instagram {
+  background: -webkit-linear-gradient(-45deg, #515BD4, #8134AF, #DD2A7B, #FEDA77, #F58529);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
