@@ -1,6 +1,14 @@
 import React, { Component } from 'react';
+import {
+    BrowserRouter as Router,
+    Switch,
+    Route,
+    Link,
+    useHistory
+  } from "react-router-dom";
 
 function Nav(props) {
+    let history = useHistory();
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-secondary bg-gradient shadow">
             <div className="container-fluid">
@@ -14,16 +22,16 @@ function Nav(props) {
                 <div className="collapse navbar-collapse px-3 justify-content-end mx-3" id="navbarNavDropdown">
                     <ul className="navbar-nav">
                         <li className="nav-item">
-                            <a className="nav-link active" aria-current="page" href="#">Home</a>
+                            <Link className="nav-link active" aria-current="page" to="./home">Home</Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">About</a>
+                            <Link className="nav-link" to="./about">About</Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Portfolio</a>
+                            <Link className="nav-link" to="./portfolio">Portfolio</Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Contact</a>
+                            <Link className="nav-link" to="./contact">Contact</Link>
                         </li>
                         <li className="nav-item dropdown">
                             <a className="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"

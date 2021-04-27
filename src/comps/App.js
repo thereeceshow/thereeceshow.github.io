@@ -20,22 +20,24 @@ function App() {
   return (
     <div className="App">
       <Router>
-      {pageView === 0 ?
-        <Splash
-          setPageView={setPageView}
-          pageView={pageView}
-        /> : <Nav />}
         <Switch>
           <Route exact={true} path="/">
+            <Splash />
+          </Route>
+          <Route exact={true} path="/home">
+            <Nav />
             <Home />
           </Route>
           <Route exact={true} path="/about">
+            <Nav />
             <About />
           </Route>
           <Route exact={true} path="/portfolio">
+            <Nav />
             <Portfolio />
           </Route>
           <Route exact={true} path="/contact">
+            <Nav />
             <Contact />
           </Route>
         </Switch>
