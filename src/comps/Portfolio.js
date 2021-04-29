@@ -14,7 +14,7 @@ export default function Portfolio() {
             project: 'Bourbon Dynsasty Restaruant',
             img: './img/bourbon.png',
             alt: 'react restaurant website',
-            url: 'https://to-do-list-ecbe1.web.app',
+            url: 'https://bourbon-dynasty.web.app',
             desc: 'This website'
         },
         {
@@ -73,9 +73,9 @@ export default function Portfolio() {
             <h1 className="text-center mt-3 p-4">
                 Reece Walter - Portfolio
         </h1>
-            <div className="row row-cols-1 row-cols-md-5 g-4 m-3">
+            <div className="row row-cols-1 row-cols-md-5 g-3">
                 {cards.map(el =>
-                    <div className="col">
+                    <div className="col mx-2">
                         <div className="card h-100" style={{ width: 18 + 'rem' }}>
                             <img src={el.img} className="card-img-top" alt={el.alt} />
                             <div className="card-body">
