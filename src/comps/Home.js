@@ -7,6 +7,16 @@ export default function Home() {
     let posts = [
         {
             genre: 'Bootcamp',
+            title: 'Week 3',
+            content: [
+                'Tuesday I spent some time pondering the existence of the For Loop... because it seemed just as simple to use a While Loop and increment and iterator in the loop',
+                ['The rest of the week we started to put the HTML, CSS, and Javascript concepts we learned to the test, and started using them together. I read during this time to illistrate the roles of each part, to compare each \"Language\" of the Website to a \"Part of Speech\", the ', <em>HTML</em>,' is the ', <strong>Noun</strong>, ' the ', <em>CSS</em>,' is the ', <strong>Adjective</strong>, ' and the ',<em>JavaScript</em>,' is the ', <strong>Verb</strong>], ' MDN would be a primary dictionary, and we would use W3Schools as our backup.'
+            ],
+            postDate: '2021-02-11'
+
+        },
+        {
+            genre: 'Bootcamp',
             title: 'End of Week 2',
             content: [
                 'We have just finished week 2 of our pre-work. Everyone on Team Hopper had good presentations today for our strangely similar Splash page\'s.  We had a good talk about uses of Dev Tools and the Document Object Model, or DOM. We got into talking about the ethics of viewing, borrowing, and using other\'s code.  Justin and Ian spoke about learning to write code by writing code is much better than not learning to write code by copying code.',

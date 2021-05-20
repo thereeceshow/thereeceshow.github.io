@@ -13,7 +13,7 @@ function Nav(props) {
         <nav className="navbar navbar-expand-lg navbar-dark bg-secondary bg-gradient shadow">
             <div className="container-fluid">
                 <Link className="navbar-brand mx-3" to="/">
-                <img className="image-fluid rounded-circle me-2" src="./img/Reece.jpg" alt="" width="30" height="24"></img>
+                <img className="image-fluid rounded-circle me-2 border border-secondary" src="./img/Reece.jpg" alt="" width="38" height="38"></img>
                     Reece <span className="text-dark">Walter</span></Link>
                 <button className="navbar-toggler" 
                         type="button" 
