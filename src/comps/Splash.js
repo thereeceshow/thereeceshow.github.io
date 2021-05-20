@@ -8,16 +8,16 @@ import {
 
 function Splash() {
     return (
-        <div className="Splash">
-            <div className="row text-center mt-5 p-5">
-                <h1 className="mt-3 p-3">
+        <div className="Splash container-fluid d-flex align-items-center justify-content-center">
+            <div className="row text-center mb-5 pb-4">
+                <h1>
                     Hi, I'm Reece.  Thanks for Stopping by.
                 </h1>
                 <h3 className="mt=2">
                     I want to help you.  I build and develop solutions that solve problems.
                 </h3>
                 {/* <Link to="/home" className="btn rounded-pill btn-secondary mt-2">Click Here</Link> */}
-                <div className="text-center mt-4 p-3"><Link className="btn btn-lg rounded-pill btn-secondary mt-2" to="/home">Check it Out</Link></div>
+                <div className="text-center p-2"><Link className="btn btn-secondary" to="/home"> Check it Out </Link></div>
             </div>
         </div>
     );

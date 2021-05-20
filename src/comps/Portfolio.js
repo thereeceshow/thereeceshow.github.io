@@ -4,6 +4,13 @@ export default function Portfolio() {
 
     const cards = [
         {
+            project: 'Yolo Funds',
+            img: './img/yolophone.png',
+            alt: 'Yolo Funds Game',
+            url: 'https://yolofund.reecewalter.com',
+            desc: 'Yolo Funds - Stock Trading App'
+        },
+        {
             project: 'Puzzle Slider',
             img: './img/slider.png',
             alt: 'sliding puzzle game',
@@ -69,13 +76,15 @@ export default function Portfolio() {
     ]
 
     return (
-        <div className="Portfolio">
-            <h1 className="text-center mt-3 p-4">
-                Reece Walter - Portfolio
-        </h1>
-            <div className="row row-cols-1 row-cols-md-5 g-3">
+        <div className="Portfolio container-fluid sub">
+            <div className="col-12">
+                <h1 className="text-center mt-3 p-4">
+                    Reece Walter - Portfolio
+                </h1>
+            </div>
+            <div className="row row-cols-1 row-cols-md-5 g-5 mx-5">
                 {cards.map(el =>
-                    <div className="col mx-2">
+                    <div className="col">
                         <div className="card h-100" style={{ width: 18 + 'rem' }}>
                             <img src={el.img} className="card-img-top" alt={el.alt} />
                             <div className="card-body">
@@ -83,8 +92,8 @@ export default function Portfolio() {
                                 <p className="card-text">{el.desc}</p>
                             </div>
                             <div className="card-footer d-grid">
-                                    <a href={el.url} className="btn btn-primary">See the Project</a>
-                                </div>
+                                <a href={el.url} className="btn btn-primary">See the Project</a>
+                            </div>
                         </div>
                     </div>
                 )
