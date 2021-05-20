@@ -18,7 +18,7 @@ function App() {
   const [pageView, setPageView] = useState(0);
 
   return (
-    <div className="App">
+    <div className="App sub">
       <Router>
         <Switch>
           <Route exact={true} path="/">

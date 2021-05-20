@@ -76,7 +76,7 @@ export default function Portfolio() {
     ]
 
     return (
-        <div className="Portfolio container-fluid">
+        <div className="Portfolio container-fluid sub">
             <div className="col-12">
                 <h1 className="text-center mt-3 p-4">
                     Reece Walter - Portfolio
