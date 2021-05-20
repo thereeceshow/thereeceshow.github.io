@@ -17,7 +17,7 @@ function Splash() {
                     I want to help you.  I build and develop solutions that solve problems.
                 </h3>
                 {/* <Link to="/home" className="btn rounded-pill btn-secondary mt-2">Click Here</Link> */}
-                <div className="text-center p-2"><Link className="btn btn-lg rounded-pill btn-secondary" to="/home">Check it Out</Link></div>
+                <div className="text-center p-2"><Link className="btn btn-lg rounded-pill btn-secondary bg-gradient shadow" to="/home">Check it Out</Link></div>
             </div>
         </div>
     );
