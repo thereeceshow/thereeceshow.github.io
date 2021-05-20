@@ -15,8 +15,13 @@ function Nav(props) {
                 <Link className="navbar-brand mx-3" to="/">
                 <img className="image-fluid rounded-circle me-2" src="./img/Reece.jpg" alt="" width="30" height="24"></img>
                     Reece <span className="text-dark">Walter</span></Link>
-                <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
-                    aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <button className="navbar-toggler" 
+                        type="button" 
+                        data-bs-toggle="collapse" 
+                        data-bs-target="#navbarNavDropdown"
+                        aria-controls="navbarNavDropdown" 
+                        aria-expanded="false" 
+                        aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>
                 <div className="collapse navbar-collapse px-3 justify-content-end mx-3" id="navbarNavDropdown">
@@ -48,6 +53,9 @@ function Nav(props) {
                                     className="fab fa-twitter-square fa-2x" id="twitter"></i> Twitter</a></li>
                                 <li><a className="dropdown-item" href="https://www.instagram.com/thereeceshow/" target="new"><i
                                     className="fab fa-instagram fa-2x" id="instagram"></i> Instagram</a></li>
+                                <li><a className="dropdown-item" href="https://www.instagram.com/thereeceshow/" target="new">
+                                <img src="https://www.codewars.com/users/thereeceshow/badges/micro" /></a></li>
+                                
                             </ul>
                         </li>
                     </ul>
